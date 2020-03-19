@@ -1,0 +1,12 @@
+c:\users\user\source\repos\PracticaBot\PracticaBot\bin\Debug\PracticaBot.exe.config
+c:\users\user\source\repos\PracticaBot\PracticaBot\bin\Debug\PracticaBot.exe
+c:\users\user\source\repos\PracticaBot\PracticaBot\bin\Debug\PracticaBot.pdb
+c:\users\user\source\repos\PracticaBot\PracticaBot\bin\Debug\Newtonsoft.Json.dll
+c:\users\user\source\repos\PracticaBot\PracticaBot\bin\Debug\Telegram.Bot.dll
+c:\users\user\source\repos\PracticaBot\PracticaBot\bin\Debug\Newtonsoft.Json.xml
+c:\users\user\source\repos\PracticaBot\PracticaBot\bin\Debug\Telegram.Bot.xml
+c:\users\user\source\repos\PracticaBot\PracticaBot\obj\Debug\PracticaBot.csprojAssemblyReference.cache
+c:\users\user\source\repos\PracticaBot\PracticaBot\obj\Debug\PracticaBot.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\PracticaBot\PracticaBot\obj\Debug\PracticaBot.csproj.CopyComplete
+c:\users\user\source\repos\PracticaBot\PracticaBot\obj\Debug\PracticaBot.exe
+c:\users\user\source\repos\PracticaBot\PracticaBot\obj\Debug\PracticaBot.pdb
